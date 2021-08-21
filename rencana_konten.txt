@@ -2,4 +2,6 @@ rencana kerja wr
 1. buat home page 
  spek teknis 
   vue js 
+ backend
+  pakai python
   

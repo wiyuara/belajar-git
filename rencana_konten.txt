@@ -2,6 +2,9 @@ rencana kerja wr
 1. buat home page 
  spek teknis 
   vue js 
+ database 
+  menggunakan mongodb
+  dan menggunakan server terpisah
  backend
   pakai python
   

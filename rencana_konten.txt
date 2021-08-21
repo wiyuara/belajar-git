@@ -2,6 +2,9 @@ rencana kerja wr
 1. buat home page 
  spek teknis 
   vue js 
+ database menggunakan mysql 
+ atau menggunakan postgree
  backend
-  pakai python
+  pakai Laravel
+  
   

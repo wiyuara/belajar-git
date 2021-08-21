@@ -4,7 +4,7 @@ rencana kerja wr
   vue js 
  database 
   menggunakan mongodb
-  dan 
+  dan menggunakan server terpisah
  backend
   pakai python
   

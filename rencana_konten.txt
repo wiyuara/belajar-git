@@ -1,11 +1,12 @@
 rencana kerja wr 
-1. buat home page 
+buat website masjid 
  spek teknis 
+ Frontend 
   vue js 
  database 
-  menggunakan mongodb
-  dan menggunakan server terpisa
+  menggunakan postgree
  backend
-  pakai Laravel
+  pakai puthon
+  
   
   

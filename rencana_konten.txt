@@ -4,7 +4,8 @@ rencana kerja wr
   vue js 
  database 
   menggunakan mongodb
-  dan menggunakan server terpisah
+  dan menggunakan server terpisa
  backend
-  pakai python
+  pakai Laravel
+  
   
